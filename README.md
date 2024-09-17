@@ -29,11 +29,6 @@ The dataset used in this project is a modified version of the KDD Cup 1999 datas
 - Python 3.x
 - Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, plotly
 
-## Usage
-1. Clone the repository
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the Jupyter notebook or Python script to reproduce the analysis
-
 ## Future Work
 - Implement deep learning models for comparison
 - Explore real-time intrusion detection capabilities
